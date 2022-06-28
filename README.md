@@ -8,7 +8,7 @@ This project was meant to be a learning experience for using the Unreal game eng
 
 - [Pain Causing Volume](#pain-causing-volume)
 - [Level Sequencer](#level-sequencer)
-- [](#pain-causing-volume)
+- [Key Blueprint](#pain-causing-volume)
 - [Pain Causing Volume](#pain-causing-volume)
 
 
@@ -23,3 +23,8 @@ A pain causing volume is placed to respawn the character when entering a dead-zo
 I utilized a level sequencer to animate moving platforms.
 
 <img src="https://user-images.githubusercontent.com/98930139/176234695-091767c3-1f40-49fd-9b06-d782c7baae93.gif" width="700" height="400">
+
+## Key
+For this task, I had to perform blueprint logic to let the game mode know if the key has been picked up.
+
+<img src="https://user-images.githubusercontent.com/98930139/176240654-c9d363a3-fd1c-4064-ba6b-bfaee7b72f6e.png" width="700" height="300">
