@@ -34,10 +34,8 @@ For this task, I had to perform blueprint logic to let the game mode know if the
 
 On this story, I had to display and update the various items that have been picked up.
 
-### Coins
-
 <div float="left">
-    <img src="https://user-images.githubusercontent.com/98930139/176249574-f221b921-4d27-42e1-8c7b-e49eec9f07f9.gif" width="400" height="250">
-    <img src="https://user-images.githubusercontent.com/98930139/176250124-a611e117-be57-43e5-8e10-a82cbdfe4d6b.gif" width="300" height="200">
+    <img src="https://user-images.githubusercontent.com/98930139/176253481-ed4cec1e-6724-4fa1-96e4-bd7e75f1c850.gif" width="400" height="250">
+    <img src="https://user-images.githubusercontent.com/98930139/176253577-2e307eb6-b6b7-42cd-b12a-110e5b4269d5.gif" width="300" height="200">
 
 </div>
