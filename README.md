@@ -8,8 +8,8 @@ This project was meant to be a learning experience for using the Unreal game eng
 
 - [Pain Causing Volume](#pain-causing-volume)
 - [Level Sequencer](#level-sequencer)
-- [Key Blueprint](#pain-causing-volume)
-- [Pain Causing Volume](#pain-causing-volume)
+- [Key Blueprint](#key)
+- [UI Elements](#key)
 
 
 ## Pain Causing Volume
@@ -25,6 +25,19 @@ I utilized a level sequencer to animate moving platforms.
 <img src="https://user-images.githubusercontent.com/98930139/176234695-091767c3-1f40-49fd-9b06-d782c7baae93.gif" width="700" height="400">
 
 ## Key
+
 For this task, I had to perform blueprint logic to let the game mode know if the key has been picked up.
 
 <img src="https://user-images.githubusercontent.com/98930139/176240654-c9d363a3-fd1c-4064-ba6b-bfaee7b72f6e.png" width="700" height="250">
+
+## UI Elements
+
+On this story, I had to display and update the various items that have been picked up.
+
+### Coins
+
+<div float="left">
+    <img src="https://user-images.githubusercontent.com/98930139/176249574-f221b921-4d27-42e1-8c7b-e49eec9f07f9.gif" width="400" height="250">
+    <img src="https://user-images.githubusercontent.com/98930139/176250124-a611e117-be57-43e5-8e10-a82cbdfe4d6b.gif" width="300" height="200">
+
+</div>
