@@ -10,6 +10,8 @@ This project was meant to be a learning experience for using the Unreal game eng
 - [Level Sequencer](#level-sequencer)
 - [Key Blueprint](#key)
 - [UI Elements](#key)
+- [End Goal]()
+- [UI Elements](#key)
 
 
 ## Pain Causing Volume
@@ -42,3 +44,17 @@ On this story, I had to display and update the various items that have been pick
 <img src="https://user-images.githubusercontent.com/98930139/176254312-1f86eb57-db1b-4545-95d2-fb3219f839f3.png" width="700" height="250">
 
 <img src="https://user-images.githubusercontent.com/98930139/176254962-2596b312-d686-40f7-be10-4ad236811337.png" width="700" height="250">
+
+## End Goal
+
+Here, I had to create blueprint logic to set game conditions and display a game completion HUD which includes a functional button that restarts the game.
+
+<img src="https://user-images.githubusercontent.com/98930139/176320257-95e3aed9-3bb4-4b46-b913-60c71341d7f5.gif" width="700" height="400">
+
+First, I had to create a function that checks if all collectibles have been picked up, then display the HUD if true.
+
+<img src="https://user-images.githubusercontent.com/98930139/176321112-b4e48211-57f1-4ca4-8557-53abe08940dd.png" width="700" height="250">
+
+Once I've created the function, I placed a trigger box at the desired end zone to call the function.
+
+<img src="https://user-images.githubusercontent.com/98930139/176321919-822e8fc5-6b3a-48cf-a270-ff1a93afc3ad.png" width="700" height="250">
