@@ -7,6 +7,9 @@ This project was meant to be a learning experience for using the Unreal game eng
 ## Index
 
 - [Pain Causing Volume](#pain-causing-volume)
+- [Level Sequencer](#level-sequencer)
+- [](#pain-causing-volume)
+- [Pain Causing Volume](#pain-causing-volume)
 
 
 ## Pain Causing Volume
@@ -14,3 +17,9 @@ This project was meant to be a learning experience for using the Unreal game eng
 A pain causing volume is placed to respawn the character when entering a dead-zone/restricted area.
 
 <img src="https://user-images.githubusercontent.com/98930139/176229609-47beeb0d-3f71-4875-b9ca-f81a694f101c.png" width="700" height="400">
+
+## Level Sequencer
+
+I utilized a level sequencer to animate moving platforms.
+
+<img src="https://user-images.githubusercontent.com/98930139/176234695-091767c3-1f40-49fd-9b06-d782c7baae93.gif" width="700" height="400">
