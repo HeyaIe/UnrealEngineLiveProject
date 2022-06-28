@@ -37,5 +37,8 @@ On this story, I had to display and update the various items that have been pick
 <div float="left">
     <img src="https://user-images.githubusercontent.com/98930139/176253481-ed4cec1e-6724-4fa1-96e4-bd7e75f1c850.gif" width="400" height="250">
     <img src="https://user-images.githubusercontent.com/98930139/176253577-2e307eb6-b6b7-42cd-b12a-110e5b4269d5.gif" width="300" height="150">
-
 </div>
+
+<img src="https://user-images.githubusercontent.com/98930139/176254312-1f86eb57-db1b-4545-95d2-fb3219f839f3.png" width="700" height="250">
+
+<img src="https://user-images.githubusercontent.com/98930139/176254962-2596b312-d686-40f7-be10-4ad236811337.png" width="700" height="250">
