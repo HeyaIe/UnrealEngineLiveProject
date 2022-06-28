@@ -27,4 +27,4 @@ I utilized a level sequencer to animate moving platforms.
 ## Key
 For this task, I had to perform blueprint logic to let the game mode know if the key has been picked up.
 
-<img src="https://user-images.githubusercontent.com/98930139/176240654-c9d363a3-fd1c-4064-ba6b-bfaee7b72f6e.png" width="700" height="300">
+<img src="https://user-images.githubusercontent.com/98930139/176240654-c9d363a3-fd1c-4064-ba6b-bfaee7b72f6e.png" width="700" height="250">
