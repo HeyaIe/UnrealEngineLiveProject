@@ -4,6 +4,24 @@ I worked on creating various game features using blueprint logic.
 ## Project Overview
 This project was meant to be a learning experience for using the Unreal game engine. It involves working in an Agile/Scrum environment, and I was tasked to implement a variety of features for a game.
 
+### Notable Roadblocks
+
+**Coins & Gems UI**
+
+My first roadblock was when I needed to display the HUDs for collectibles, specifically, binding a function to a widget text palette. It wasn't as confusing as it seemed, but after overcoming the roadblock, my proficiency in using blueprints definitely expanded.
+
+**False Floor Obstacle**
+
+My other notable roadblock involved creating a set of platforms that could be overlapped at random. I wasn't sure how to approach this, but I knew I needed to form an array. 
+
+Initially, I wanted to implement a nested for-loop that disables the collision on one of two platforms for each set in the array.
+
+In the end, I opted to work on a smaller scale of platforms, as well as switch the collision response to overlap instead to work with overlap events.
+
+### What I Learned
+
+In addition to gaining experience on the Unreal game engine, I found that I am capable of performing blueprint logic, making use of components, and utilizing version control(pushing changes from a working branch).
+
 ## Index
 
 - [Pain Causing Volume](#pain-causing-volume)
