@@ -73,5 +73,5 @@ Rotating Hammer(Damage Causable)(Rotating Movement Component)
 
 <div float="left">
     <img src="https://user-images.githubusercontent.com/98930139/176325165-634369ce-5156-4ebc-aec0-49a96330a9d7.gif" width="400" height="250">
-    <img src="https://user-images.githubusercontent.com/98930139/176325572-8d26bec6-5fa6-4d24-8630-ed856edfd2e4.png" width="300" height="150">
+    <img src="https://user-images.githubusercontent.com/98930139/176325572-8d26bec6-5fa6-4d24-8630-ed856edfd2e4.png" width="400" height="250">
 </div>
