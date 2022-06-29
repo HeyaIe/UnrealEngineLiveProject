@@ -66,6 +66,7 @@ For my final story, I had to create a health & damage system, and design an obst
 I decided to create a blueprint interface to store my damage event, and call it when the character gets hit by a damage causable object.
 
 <img src="https://user-images.githubusercontent.com/98930139/176323798-322707f9-1a07-4fe7-82c6-6d333e399428.png" width="700" height="250" title="Character takes damage">
+<hr>
 
 Before I designed the obstacle course, I created a few blueprint objects to act as obstacles.
 
@@ -74,4 +75,24 @@ Rotating Hammer(Damage Causable)(Rotating Movement Component)
 <div float="left">
     <img src="https://user-images.githubusercontent.com/98930139/176325165-634369ce-5156-4ebc-aec0-49a96330a9d7.gif" width="400" height="250">
     <img src="https://user-images.githubusercontent.com/98930139/176325572-8d26bec6-5fa6-4d24-8630-ed856edfd2e4.png" width="400" height="250">
+</div>
+<hr>
+
+Tilting Plank(Physics Constraint Component)
+
+<div float="left">
+    <img src="https://user-images.githubusercontent.com/98930139/176326750-d9426acd-8ef9-4c3f-ad77-34b83df9267e.gif" width="400" height="250">
+    <img src="https://user-images.githubusercontent.com/98930139/176327001-77189c5f-b9e5-4ca7-a0a9-d46632ac6bd6.png" width="400" height="250">
+</div>
+<hr>
+
+False Floors
+
+I decided to create a blueprint consisting of two identical platforms surrounded by a box collision, upon overlap, a random platforms' collision response is set to overlap and visibility is disabled at random, resulting in the character falling through.
+
+A delay is included in order to reset the collision response and visibility.
+
+<div float="left">
+    <img src="https://user-images.githubusercontent.com/98930139/176328254-293034d5-9af7-4830-a244-38d65be2390a.gif" width="400" height="250">
+    <img src="https://user-images.githubusercontent.com/98930139/176328420-f7e4ed2f-0698-4ed5-a9f8-bbac8da414d0.png" width="400" height="250">
 </div>
