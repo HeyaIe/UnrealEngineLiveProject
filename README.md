@@ -10,8 +10,8 @@ This project was meant to be a learning experience for using the Unreal game eng
 - [Level Sequencer](#level-sequencer)
 - [Key Blueprint](#key)
 - [UI Elements](#key)
-- [End Goal]()
-- [UI Elements](#key)
+- [End Goal](#end-goal)
+- [Obstacles & Health System]()
 
 
 ## Pain Causing Volume
@@ -58,3 +58,11 @@ First, I had to create a function that checks if all collectibles have been pick
 Once I've created the function, I placed a trigger box at the desired end zone to call the function.
 
 <img src="https://user-images.githubusercontent.com/98930139/176321919-822e8fc5-6b3a-48cf-a270-ff1a93afc3ad.png" width="700" height="250">
+
+## Obstacles & Health System
+
+For my final story, I had to create a health & damage system, and design an obstacle course.
+
+I decided to create a blueprint interface to store my damage event, and call it when the character gets hit by a damage causable object.
+
+<img src="https://user-images.githubusercontent.com/98930139/176323798-322707f9-1a07-4fe7-82c6-6d333e399428.png" width="700" height="250" title="Character takes damage">
