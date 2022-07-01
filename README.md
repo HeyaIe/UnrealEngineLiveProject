@@ -4,6 +4,8 @@ I worked on creating various game features using blueprint logic.
 ## Project Overview
 This project was meant to be a learning experience for using the Unreal game engine. It involves working in an Agile/Scrum environment, and I was tasked to implement a variety of features for a game.
 
+This game involves controlling a character in a sandbox environment, filled with obstacles. The objective is to pick up all collectibles and reaching the end goal in the shortest amount of time.
+
 ### Notable Roadblocks
 
 **Coins & Gems UI**
